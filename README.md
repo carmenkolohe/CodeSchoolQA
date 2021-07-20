@@ -39,6 +39,7 @@ Again, I am open to suggestions and open to learn with you. If you find that the
 (all images are links! clickem! 😲)
 
 <hr/>
+  
 <a href="https://www.twitch.tv/thejonanshow" rel="some text">
   <img src="https://visualpharm.com/assets/598/Twitch-595b40b65ba036ed117d4612.svg" width="50px" height="auto" >
 </a>
@@ -119,6 +120,7 @@ Thank you for being a friend and a part of this community.
 <div align="center">
 <img src="https://media.giphy.com/media/cMhPpDTQnk0eZDQiZk/giphy-downsized-large.gif" width="200px" height="auto">
 </div>
+
 <hr/>
 
 #### License
