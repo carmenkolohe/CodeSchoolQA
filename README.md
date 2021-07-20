@@ -48,6 +48,8 @@ The Jonan Show
 
 </div>
 
+<div align="center">
+
 <table style="width:100%;text-align:center;">
   <tr>
     <th style="text-align:center;">Jonan</th>
@@ -78,7 +80,7 @@ The Jonan Show
     </td>
   </tr>  
 </table>
-<hr/>
+</div>
 
 <h2 id="ideas">💡 🤔 Ideas 🤯 🤩</h2>
 <hr/>
