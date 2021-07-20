@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Code School Q&A
 
@@ -8,7 +8,7 @@
 
 #### By Carmen Kolodziej
 
-</center>
+</div>
 
 ## 😸 Description
 
@@ -32,7 +32,7 @@ Again, I am open to suggestions and open to learn with you. If you find that the
 
 <hr/>
 
-<center>
+<div align="center">
 
 ## 🗑🔥 Wednesday Code School Q&A Crew
 
@@ -45,7 +45,7 @@ Again, I am open to suggestions and open to learn with you. If you find that the
 
 The Jonan Show
 
-</center>
+</div>
 
 <table style="width:100%;text-align:center;">
   <tr>
@@ -116,9 +116,9 @@ If you have any questions or run into trouble please email me <thisdumpsterfire9
 
 Thank you for being a friend and a part of this community.
 
-<center>
+<div align="center">
 <img src="https://media.giphy.com/media/cMhPpDTQnk0eZDQiZk/giphy-downsized-large.gif" width="200px" height="auto">
-</center>
+</div>
 <hr/>
 
 #### License
