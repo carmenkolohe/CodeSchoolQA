@@ -26,9 +26,9 @@ Thank you so much for considering to contribute to Code School Q&A
 - Click Enable
 - You are all set up! 🥳
 
-<center>
+<div align="center">
 <img src="https://media.giphy.com/media/tZyxxR4lUIRnTgIzl9/giphy.gif" width="200"/>
-</center>
+</div>
 
 ## 🤝 Ready friends?
 
@@ -42,12 +42,12 @@ Thank you so much for considering to contribute to Code School Q&A
 - **You will need a URL for your Firebase API. This link will go into the ApiUtilTemplate.js file. Don't worry, there will be instructions in the comments to help you. Don't forget to rename the file to ApiUtil.js please**
 - **You will also need to add the URL into the index.js file to be able to POST questions into your database (Side note: Would really like to move this function out of index.js 😅💡). Same deal there will be comments to assit you and please rename the file to index.js**
 
-<center>
+<div align="center">
 <details>
 <summary>Click here. Pictures make things better</summary>
 <img src="./assets/firebaseUrl.png" />
 </details>
-</center>
+</div>
 
 - Open terminal and navigate to dumpster-fire directory
 - Use the command `npm install` to install all necessary packages for the project to function
