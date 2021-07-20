@@ -1,0 +1,15 @@
+$primary-font: "Courier New", Courier, monospace;
+$bestColor: #008b8b;
+
+.item {
+  box-shadow: 0 1px 4px #008b8b, 0 1px 12px 2px $bestColor;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: white;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 2%;
+  font-family: $primary-font;
+}

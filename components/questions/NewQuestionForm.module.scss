@@ -1,0 +1,30 @@
+$bestColor: #008b8b;
+$green: #1f3;
+
+.form {
+  padding: 1rem;
+  button {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    background-color: mix($bestColor, $green, 80%);
+    border: $bestColor;
+  }
+  textarea {
+    border-radius: 4px;
+    border: 1px dashed $bestColor;
+  }
+}
+
+// #question {
+//   border-radius: 4px;
+//   border: 1px dashed $bestColor;
+// }
+
+// #button {
+//   text-align: center;
+//   margin: 0 auto;
+//   display: block;
+//   background-color: $bestColor;
+//   border: $bestColor;
+// }
