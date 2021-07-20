@@ -104,11 +104,11 @@ The Jonan Show
 
 ## 🦾 Ready? Set? Go!
 
-Please go to [Contributing](./CONTRIBUTING.MD) to get all set up and coding!
+Please go to [Contributing](CONTRIBUTING.MD) to get all set up and coding!
 
 ## 💕 Code of Conduct
 
-Please review the [Code of Conduct](./CODE_OF_CONDUCT.md)
+Please review the [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## 💌 Contact
 
