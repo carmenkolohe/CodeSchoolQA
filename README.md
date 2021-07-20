@@ -117,10 +117,6 @@ If you have any questions or run into trouble please email me <thisdumpsterfire9
 
 Thank you for being a friend and a part of this community.
 
-<div align="center">
-<img src="https://media.giphy.com/media/cMhPpDTQnk0eZDQiZk/giphy-downsized-large.gif" width="200px" height="auto">
-</div>
-
 <hr/>
 
 #### License
