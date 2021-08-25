@@ -1,5 +1,19 @@
 <div align="center">
 
+
+<img src="https://media.giphy.com/media/SV0eVzpjTHIQD0eK2s/giphy.gif?cid=ecf05e47je9xzeut18wqjg44g2yseyf48lozwcehwlr2xghb&rid=giphy.gif&ct=g" width="480" height="480"/>
+
+
+
+# 🚧 Project Under Construction 🚧  
+## Hi friends! The project is not ready to accept contributions. There is still much to prepare and discuss to set all of us up for success to contribute and build something great together.  
+## Please join us on Twitch Fridays @ noonish on https://www.twitch.tv/jendevelops
+## We can talk about it all... MVP, structuring, wireframes, tech stack, backend, frontend, etc.. together! 💞
+
+</div> 
+
+<div align="center">
+
 # Code School Q&A
 
 <img src="https://assets.vogue.com/photos/5fc7e5ded326e9a7dba5f8b3/master/w_1600%2Cc_limit/0_08FXLCON4eRuhTz3.gif" width="200"/>
