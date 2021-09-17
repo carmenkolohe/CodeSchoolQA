@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: "\U0001F4A1 Suggest an idea for this project"
-title: ''
-labels: ''
-assignees: ''
+Name: Feature request
+About: "\U0001F4A1 Suggest an idea for this project"
+Title: ''
+Labels: ''
+Assignees: ''
 
 ---
 
