@@ -4,7 +4,7 @@
 //delete Template from file name (file should be called ApiUtil.js)
 
 export async function getAllQuestions() {
-  const response = await fetch('');
+  const response = await fetch('https://codeschoolqa-e9122-default-rtdb.firebaseio.com/questions.json/');
   const data = await response.json();
 
   const questions = [];

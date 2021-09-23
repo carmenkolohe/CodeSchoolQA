@@ -14,7 +14,7 @@ function HomePage(props) {
 
   //please add your firebase db url here ending with /questions.json (it is the same one you put in the ApiUtil.js) and delete Template from the file name (file should be called index.js)
   function handleAddQuestion(questionData) {
-    fetch('', {
+    fetch('https://codeschoolqa-e9122-default-rtdb.firebaseio.com/questions.json/', {
       method: 'POST',
       body: JSON.stringify(questionData),
       headers: {
