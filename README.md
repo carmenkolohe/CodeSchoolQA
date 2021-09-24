@@ -1,32 +1,47 @@
-<div align="center">
-
-
-<img src="https://media.giphy.com/media/SV0eVzpjTHIQD0eK2s/giphy.gif?cid=ecf05e47je9xzeut18wqjg44g2yseyf48lozwcehwlr2xghb&rid=giphy.gif&ct=g" width="480" height="480"/>
-
-
-
-# 🚧 Project Under Construction 🚧  
-## Hi friends! The project is not ready to accept contributions. There is still much to prepare and discuss to set all of us up for success to contribute and build something great together.  
-## Please join us on Twitch Fridays @ noonish on https://www.twitch.tv/jendevelops
-## We can talk about it all... MVP, structuring, wireframes, tech stack, backend, frontend, etc.. together! 💞
-
-</div> 
-
-<div align="center">
-
 # Code School Q&A
+
+_By [The Code School Q&A Crew](#code-school-qa-crew)_
 
 <img src="https://assets.vogue.com/photos/5fc7e5ded326e9a7dba5f8b3/master/w_1600%2Cc_limit/0_08FXLCON4eRuhTz3.gif" width="200"/>
 
-### Code School Q&A
+## Contents
 
-#### By Carmen Kolodziej
+| Section                                      | Description                                                                                                                                                                                                    |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Contributing](CONTRIBUTING.MD)              | Want to contribute to an open source project for the first time? Follow the link to get started! We'll start reviewing PRs on October 1st in honor of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) |
+| [Streaming](#streaming-the-process)          | We stream this project on [Twitch](twitch.tv/jendevelops). Come join us!                                                                                                                                       |
+| [Description](#description)                  |                                                                                                                                                                                                                |
+| [Goals](#goals)                              |                                                                                                                                                                                                                |
+| [Background](#background)                    |                                                                                                                                                                                                                |
+| [Code School Q&A Crew](#code-school-qa-crew) |                                                                                                                                                                                                                |
 
-</div>
+## Streaming the Process
+
+Please join us on Twitch Fridays @ noonish on https://www.twitch.tv/jendevelops. We can talk about it all... MVP, structuring, wireframes, tech stack, backend, frontend, etc.. together! 💞 We also plan on documenting the whole journey, including how we review PRs during the live streams!
 
 ## 😸 Description
 
-Hi Friends! Although your journey into tech may seem like a dumpster fire at times, this dumpster fire will give you light and keep you warm. Please join me in building the official Code School Q&A web app. My goal is to have our friends, students, and folks that may not have a chance to ask a question during the stream be able to submit questions that we could try our best to answer during the stream. At the moment, I have a Firebase database set up to store questions submitted. Check out the [Ideas section](#ideas) section to see what ideas I have thought about implementing to the page.
+A webapp to organize questions and answers for the [Code School Q&A Stream](twitch.tv/thejonanshow) built using
+
+- [NextJS](https://nextjs.org/docs/getting-started)
+- [Sass](https://sass-lang.com/documentation)
+- [Node.js](https://nodejs.org/en/)
+- [Google Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
+
+## Goals
+
+Code School Q&A aims to help people enter the tech industry from any background! This project has 2 goals:
+
+1. Streamline questions and answers for the [Code School Q&A Stream](twitch.tv/thejonanshow)
+1. Create a welcoming environment for code newbies who want to have a safe space to contribute to an open source project for the first time
+
+## Want to Contribute?
+
+Please go to [Contributing](CONTRIBUTING.md) to get all set up and coding!
+
+## Background
+
+Hi Friends! Although your journey into tech may seem like a dumpster fire at times, this dumpster fire will give you light and keep you warm. Please join me in building the official Code School Q&A web app. My goal is to have our friends, students, and folks that may not have a chance to ask a question during the stream be able to submit questions that we could try our best to answer during the stream. At the moment, I have a Firebase database set up to store questions submitted.
 
 I am open to any ideas for this app! This is an open source project for anyone in their journey in coding. Please feel free to create an issue and let me know how I can improve the documentation.
 
@@ -48,7 +63,7 @@ Again, I am open to suggestions and open to learn with you. If you find that the
 
 <div align="center">
 
-## 🗑🔥 Wednesday Code School Q&A Crew
+## Code School Q&A Crew
 
 (all images are links! clickem! 😲)
 
@@ -70,6 +85,8 @@ The Jonan Show
     <th style="text-align:center;">Carmen</th> 
     <th style="text-align:center;">Danielle</th>
     <th style="text-align:center;">Randel</th>
+    <th style="text-align:center;">Creaturenex</th>
+    <th style="text-align:center;">Jen</th>
   </tr>
   <tr>
     <td style="text-align:center;">
@@ -96,29 +113,6 @@ The Jonan Show
 </table>
 </div>
 
-<h2 id="ideas">💡 🤔 Ideas 🤯 🤩</h2>
-<hr/>
-
-- Form to submit a question ✅
-- Question sent to database ✅
-- List of questions shown ✅
-- Create an "About Code School Q&A" page.
-  - This is something I would like to collaborate with someone on. Details about the stream, the crew and how it all came to be
-- Create a calendar of when we are streaming and answering questions
-  - A way for admin to be able to update the calendar
-- A better way to organize the questions
-  - Answered and unaswered questions organized somewhere
-- A way to moderate or filter inappropriate questions
-- Have links to the answers to the questions of the specific timestamp when the question was answered on stream
-- Log in for users to be able to create, edit and delete their questions
-- Admin log in to update calendar, and add answers
-- Different database?
-- Host it
-- Testing
-- A contributors page thanking all that helped build this 💜
-
-</details>
-
 ## 🦾 Ready? Set? Go!
 
 Please go to [Contributing](CONTRIBUTING.md) to get all set up and coding!
@@ -129,7 +123,7 @@ Please review the [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## 💌 Contact
 
-If you have any questions or run into trouble please email me <thisdumpsterfire9000@gmail.com> (yes this is a real email 🤪) or stop by the stream on Wednesday evenings PST and ask then!
+If you have any questions or run into trouble please email me <code.school.qa@gmail.com> or stop by the stream on Wednesday evenings PST and ask then!
 
 Thank you for being a friend and a part of this community.
 
