@@ -87,7 +87,7 @@ The Jonan Show
     <th style="text-align:center;">Carmen</th> 
     <th style="text-align:center;">Danielle</th>
     <th style="text-align:center;">Randel</th>
-    <th style="text-align:center;">Creaturenex</th>
+    <th style="text-align:center;">Oscar</th>
     <th style="text-align:center;">Jen</th>
   </tr>
   <tr>
