@@ -8,7 +8,7 @@ _By [The Code School Q&A Crew](#code-school-qa-crew)_
 
 | Section                                      | Description                                                                                                                                                                                                    |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Contributing](CONTRIBUTING.MD)              | Want to contribute to an open source project for the first time? Follow the link to get started! We'll start reviewing PRs on October 1st in honor of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) |
+| [Contributing](CONTRIBUTING.md)             | Want to contribute to an open source project for the first time? Follow the link to get started! We'll start reviewing PRs on October 1st in honor of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) |
 | [Code of Conduct](#code-of-conduct) | Please review the code of conduct |
 | [Streaming](#streaming-the-process)          | We stream this project on [Twitch](twitch.tv/jendevelops). Come join us!                                                                                                                                       |
 | [Description](#description)                  | What are we building?                                                                                                                                                                                                                |
