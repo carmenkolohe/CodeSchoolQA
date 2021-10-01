@@ -38,3 +38,7 @@
 ## Testing Steps / QA Criteria
 
 <!-- Provide steps the other cohort members and mentors need to follow to properly test your additions. -->
+
+## Streaming PR Review
+
+<!-- Please let us know if you are comfortable with letting us review your PR on stream. Thank you! -->
