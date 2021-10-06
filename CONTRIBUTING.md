@@ -39,8 +39,12 @@ Thank you so much for considering to contribute to Code School Q&A
 - Open your terminal and use the command `git clone https://github.com/carmenkolohe/CodeSchoolQA.git` into the directory you would like to have the repository
 - Open in text editor to view code and make changes
 
-- **You will need a URL for your Firebase API. This link will go into the ApiUtilTemplate.js file. Don't worry, there will be instructions in the comments to help you. Don't forget to rename the file to ApiUtil.js please**
-- **You will also need to add the URL into the index.js file to be able to POST questions into your database (Side note: Would really like to move this function out of index.js 😅💡). Same deal there will be comments to assit you and please rename the file to index.js**
+- **Please create a `.env.local` file in the main directory and store your Firebase URL as an environmental variable. Please make sure to end the URL with `/questions.json` and prefix the variable with `NEXT_PUBLIC_`. You will be able to use this anywhere in the code and it is already included in .gitignore because... Next.js magic 🪄 . If you would like to learn more about Environmental Variables in Next.JS, [Click Here](https://nextjs.org/docs/basic-features/environment-variables) to read the documentation**
+- Example:
+
+  ```// .env.local
+  NEXT_PUBLIC_FIREBASE_URL=https://your-firebase-url.firebaseio.com/questions.json
+  ```
 
 <div align="center">
 <details>
