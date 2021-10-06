@@ -2,6 +2,10 @@
 
 Thank you so much for considering to contribute to Code School Q&A
 
+If you would like to be assigned an issue please let us know in the comments section of the pertaining issue and any additional information you would like to share. We will get you assigned in the order it was received. Thank you for your patience.
+
+Please follow the instructions below to get yourself set up. Please let us know if you have any questions. 
+
 **REMEMBER: Please don't be afraid to break it. Break it, fix it, get help, learn from it, make friends and share it 🙌**
 
 ## 🤗 Getting Started
@@ -45,6 +49,7 @@ Thank you so much for considering to contribute to Code School Q&A
   ```// .env.local
   NEXT_PUBLIC_FIREBASE_URL=https://your-firebase-url.firebaseio.com/questions.json
   ```
+
 
 <div align="center">
 <details>
