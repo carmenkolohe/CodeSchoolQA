@@ -71,7 +71,15 @@ Super open to suggestions and open to learn with you. If you find that there is 
 
 <hr/>
   
-<a href="https://www.twitch.tv/thejonanshow" rel="some text">
+<br>
+
+<a href="https://twitter.com/CodeSchoolQA">
+  <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" width="50px" height="auto" >
+</a>
+
+@CodeSchoolQA
+
+<a href="https://www.twitch.tv/thejonanshow">
   <img src="https://visualpharm.com/assets/598/Twitch-595b40b65ba036ed117d4612.svg" width="50px" height="auto" >
 </a>
 
