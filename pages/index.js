@@ -12,9 +12,8 @@ function HomePage(props) {
     router.replace(router.asPath);
   };
 
-  //please add your firebase db url here ending with /questions.json (it is the same one you put in the ApiUtil.js) and delete Template from the file name (file should be called index.js)
   function handleAddQuestion(questionData) {
-    fetch('', {
+    fetch(process.env.NEXT_PUBLIC_FIREBASE_URL, {
       method: 'POST',
       body: JSON.stringify(questionData),
       headers: {
