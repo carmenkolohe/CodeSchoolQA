@@ -1,8 +1,9 @@
-import NewQuestionForm from "../components/questions/NewQuestionForm";
-import QuestionList from "../components/questions/QuestionList";
-import { getAllQuestions } from "../helpers/ApiUtil";
-import styles from "../styles/Home.module.scss";
-import { useRouter } from "next/router";
+
+import NewQuestionForm from '../components/questions/NewQuestionForm';
+import QuestionList from '../components/questions/QuestionList';
+import { getAllQuestions } from '../helpers/ApiUtil';
+import styles from '../styles/Home.module.scss';
+import { useRouter } from 'next/router';
 
 function HomePage(props) {
   const { questions } = props;
@@ -12,18 +13,15 @@ function HomePage(props) {
     router.replace(router.asPath);
   };
 
-  //please add your firebase db url here ending with /questions.json (it is the same one you put in the ApiUtil.js) and delete Template from the file name (file should be called index.js)
+
   function handleAddQuestion(questionData) {
-    fetch(
-      "https://dumpster-fire-8df53-default-rtdb.firebaseio.com/questions.json",
-      {
-        method: "POST",
-        body: JSON.stringify(questionData),
-        headers: {
-          "Content-Type": "application/json",
-        },
-      }
-    ).then(() => {
+    fetch(process.env.NEXT_PUBLIC_FIREBASE_URL, {
+      method: 'POST',
+      body: JSON.stringify(questionData),
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    }).then(() => {
       refreshData();
     });
   }
@@ -41,6 +39,7 @@ function HomePage(props) {
         learning how to program, getting a job in tech! We will answer your
         question live on stream Wednesday nights, tune in then!
       </h4>
+
       <NewQuestionForm onAddQuestion={handleAddQuestion} date={handleDate} />
       <QuestionList questions={questions} />
     </div>
