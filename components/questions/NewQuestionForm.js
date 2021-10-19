@@ -19,7 +19,7 @@ function NewQuestionForm(props) {
     const inputtedQuestion = questionInputRef.current.value;
 
     const currentDate = new Date();
-    var dateFormat =
+    const dateFormat =
       currentDate.getMonth() +
       1 +
       "/" +
