@@ -7,9 +7,9 @@ function QuestionList(props) {
     <ul className={styles.list}>
       {questions.map(({id, questionBody, date}) => (
         <Question
-          key={question.id}
-          questionBody={question.questionBody}
-          date={question.date}
+          key={id}
+          questionBody={questionBody}
+          date={date}
         />
       ))}
     </ul>
