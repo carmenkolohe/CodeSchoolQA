@@ -1,3 +1,4 @@
+
 import NewQuestionForm from '../components/questions/NewQuestionForm';
 import QuestionList from '../components/questions/QuestionList';
 import { getAllQuestions } from '../helpers/ApiUtil';
@@ -12,6 +13,7 @@ function HomePage(props) {
     router.replace(router.asPath);
   };
 
+
   function handleAddQuestion(questionData) {
     fetch(process.env.NEXT_PUBLIC_FIREBASE_URL, {
       method: 'POST',
@@ -24,6 +26,10 @@ function HomePage(props) {
     });
   }
 
+  function handleDate(date) {
+    return date;
+  }
+
   return (
     <div className={styles.container}>
       <h1>Hi Friends!</h1>
@@ -33,7 +39,8 @@ function HomePage(props) {
         learning how to program, getting a job in tech! We will answer your
         question live on stream Wednesday nights, tune in then!
       </h4>
-      <NewQuestionForm onAddQuestion={handleAddQuestion} />
+
+      <NewQuestionForm onAddQuestion={handleAddQuestion} date={handleDate} />
       <QuestionList questions={questions} />
     </div>
   );

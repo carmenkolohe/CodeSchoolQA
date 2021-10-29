@@ -5,8 +5,12 @@ function QuestionList(props) {
   const { questions } = props;
   return (
     <ul className={styles.list}>
-      {questions.map((question) => (
-        <Question key={question.id} questionBody={question.questionBody} />
+      {questions.map(({id, questionBody, date}) => (
+        <Question
+          key={id}
+          questionBody={questionBody}
+          date={date}
+        />
       ))}
     </ul>
   );

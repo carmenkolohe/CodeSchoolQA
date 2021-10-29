@@ -8,8 +8,12 @@ $bestColor: #008b8b;
   background-color: white;
   margin: 1rem;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 1rem;
   padding: 2%;
   font-family: $primary-font;
+}
+
+.question {
+  text-align: left;
 }

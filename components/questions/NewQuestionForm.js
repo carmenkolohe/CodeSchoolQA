@@ -18,10 +18,22 @@ function NewQuestionForm(props) {
     event.preventDefault();
     const inputtedQuestion = questionInputRef.current.value;
 
+    const currentDate = new Date();
+    const dateFormat =
+      currentDate.getMonth() +
+      1 +
+      "/" +
+      currentDate.getDate() +
+      "/" +
+      currentDate.getFullYear();
+
     const questionData = {
       questionBody: inputtedQuestion,
+      date: dateFormat,
     };
+
     props.onAddQuestion(questionData);
+    props.date(questionData.date);
     handleThanks();
   }
 
