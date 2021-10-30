@@ -35,6 +35,7 @@ function NewQuestionForm(props) {
     props.onAddQuestion(questionData);
     props.date(questionData.date);
     handleThanks();
+    questionInputRef.current.value = "";
   }
 
   return (
