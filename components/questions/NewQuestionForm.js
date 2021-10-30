@@ -23,6 +23,7 @@ function NewQuestionForm(props) {
     };
     props.onAddQuestion(questionData);
     handleThanks();
+    questionInputRef.current.value = "";
   }
 
   return (
