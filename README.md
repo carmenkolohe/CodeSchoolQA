@@ -120,12 +120,12 @@ The Jonan Show
       </a>
     </td>
      <td>
-      <a href="https://twitter.com/codingmoore">
+       <a href="https://twitter.com/creaturenex">
         <img src="https://pbs.twimg.com/profile_images/1392710417584173057/dZshixQb_400x400.jpg" width="80px" height="auto">
       </a>
     </td>
     <td>
-      <a href="https://twitter.com/codingmoore">
+      <a href="https://twitter.com/jendevelops">
         <img src="https://pbs.twimg.com/profile_images/1301958188623753216/DLUgUiMy_400x400.jpg" width="80px" height="auto">
       </a>
     </td>
